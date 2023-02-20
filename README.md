@@ -5,7 +5,7 @@ Created new repository.
 
 - Ejercicios en clase
     - [abc](src/es/Ejercicios/abc/)
-    - test [Adivina numero](src/Ejercicios/AdivinaNumero.java/)
+    - test [Adivina numero](src/Ejercicios/)
     - [Calculadora basica](src/es/Ejercicios/CalculadoraBasica/)
     - [Calculadora recursiva](src/es/Ejercicios/calculadoraRecursiva/)
     - [Capicua](src/es/Ejercicios/Capicua/)
